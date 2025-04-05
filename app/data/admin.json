@@ -4,11 +4,11 @@
         "id": "11",
         "sections": [
             {
-                "courseNo": "CMPS 151",
+                "courseNo": "CMPS151",
                 "section": "L01"
             },
             {
-                "courseNo": "MATH 101",
+                "courseNo": "MATH101",
                 "section": "L02"
             }
         ],
@@ -18,7 +18,7 @@
         "EmailID": "ah11@qu.edu.qa",
         "pendingSections": [
             {
-                "courseNo": "CMPS 303",
+                "courseNo": "CMPS303",
                 "section": "L01"
             }
         ]
@@ -28,11 +28,11 @@
         "id": "12",
         "sections": [
             {
-                "courseNo": "PHYS 191",
+                "courseNo": "PHYS191",
                 "section": "L01"
             },
             {
-                "courseNo": "CMPE 263",
+                "courseNo": "CMPE263",
                 "section": "L02"
             }
         ],
@@ -42,7 +42,7 @@
         "EmailID": "ls12@qu.edu.qa",
         "pendingSections": [
             {
-                "courseNo": "CMPS 303",
+                "courseNo": "CMPS303",
                 "section": "L01"
             }
         ]
@@ -52,11 +52,11 @@
         "id": "13",
         "sections": [
             {
-                "courseNo": "GENG 200",
+                "courseNo": "GENG200",
                 "section": "L01"
             },
             {
-                "courseNo": "MATH 231",
+                "courseNo": "MATH231",
                 "section": "L02"
             }
         ],
@@ -66,7 +66,7 @@
         "EmailID": "ok13@qu.edu.qa",
         "pendingSections": [
             {
-                "courseNo": "CMPS 303",
+                "courseNo": "CMPS303",
                 "section": "L01"
             }
         ]
@@ -76,11 +76,11 @@
         "id": "14",
         "sections": [
             {
-                "courseNo": "CHEM 101",
+                "courseNo": "CHEM101",
                 "section": "L01"
             },
             {
-                "courseNo": "ENGL 202",
+                "courseNo": "ENGL202",
                 "section": "L02"
             }
         ],
@@ -90,7 +90,7 @@
         "EmailID": "sa14@qu.edu.qa",
         "pendingSections": [
             {
-                "courseNo": "CMPS 303",
+                "courseNo": "CMPS303",
                 "section": "L01"
             }
         ]

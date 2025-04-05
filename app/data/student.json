@@ -8,30 +8,33 @@
     "totalCreditHours": "50",
     "major": "Computer Science",
     "phoneNo": "12345678",
-    "currentSections": [
+    "sections": [
       {
-        "courseNo": "CMPS 151",
+        "courseNo": "CMPS151",
         "section": "L01",
+        "status": "completed",
         "grade": "A"
       },
       {
-        "courseNo": "MATH 101",
+        "courseNo": "MATH101",
         "section": "L02",
+        "status": "completed",
         "grade": "B"
       },
       {
-        "courseNo": "PHYS 194",
+        "courseNo": "PHYS194",
         "section": "B02",
+        "status": "completed",
         "grade": "A"
       }
     ],
     "pendingSections": [
       {
-        "courseNo": "CMPS 251",
+        "courseNo": "CMPS251",
         "section": "L01"
       },
       {
-        "courseNo": "PHYS 194",
+        "courseNo": "PHYS194",
         "section": "B02"
       }
     ]
@@ -45,21 +48,23 @@
     "totalCreditHours": "45",
     "major": "Computer Science",
     "phoneNo": "87654321",
-    "currentSections": [
+    "sections": [
       {
-        "courseNo": "CMPS 205",
+        "courseNo": "CMPS205",
         "section": "L01",
+        "status": "completed",
         "grade": "A-"
       },
       {
-        "courseNo": "MATH 102",
+        "courseNo": "MATH102",
         "section": "L02",
+        "status": "completed",
         "grade": "B+"
       }
     ],
     "pendingSections": [
       {
-        "courseNo": "CMPS 303",
+        "courseNo": "CMPS303",
         "section": "L01"
       }
     ]
@@ -73,21 +78,23 @@
     "totalCreditHours": "60",
     "major": "Mathematics",
     "phoneNo": "11223344",
-    "currentSections": [
+    "sections": [
       {
-        "courseNo": "MATH 231",
+        "courseNo": "MATH231",
         "section": "L01",
+        "status": "completed",
         "grade": "B"
       },
       {
-        "courseNo": "PHYS 191",
+        "courseNo": "PHYS191",
         "section": "L02",
+        "status": "completed",
         "grade": "C+"
       }
     ],
     "pendingSections": [
       {
-        "courseNo": "PHYS 193",
+        "courseNo": "PHYS193",
         "section": "L01"
       }
     ]
@@ -101,21 +108,23 @@
     "totalCreditHours": "55",
     "major": "Physics",
     "phoneNo": "33445566",
-    "currentSections": [
+    "sections": [
       {
-        "courseNo": "PHYS 191",
+        "courseNo": "PHYS191",
         "section": "L01",
+        "status": "completed",
         "grade": "A"
       },
       {
-        "courseNo": "MATH 102",
+        "courseNo": "MATH102",
         "section": "L02",
+        "status": "completed",
         "grade": "A-"
       }
     ],
     "pendingSections": [
       {
-        "courseNo": "PHYS 193",
+        "courseNo": "PHYS193",
         "section": "L01"
       }
     ]
@@ -129,21 +138,23 @@
     "totalCreditHours": "48",
     "major": "Chemistry",
     "phoneNo": "55667788",
-    "currentSections": [
+    "sections": [
       {
-        "courseNo": "CHEM 101",
+        "courseNo": "CHEM101",
         "section": "L01",
+        "status": "completed",
         "grade": "B+"
       },
       {
-        "courseNo": "CHEM 103",
+        "courseNo": "CHEM103",
         "section": "B01",
+        "status": "completed",
         "grade": "A-"
       }
     ],
     "pendingSections": [
       {
-        "courseNo": "PHYS 191",
+        "courseNo": "PHYS191",
         "section": "L01"
       }
     ]
@@ -157,21 +168,23 @@
     "totalCreditHours": "42",
     "major": "History",
     "phoneNo": "66778899",
-    "currentSections": [
+    "sections": [
       {
-        "courseNo": "HIST 121",
+        "courseNo": "HIST121",
         "section": "L01",
+        "status": "completed",
         "grade": "B"
       },
       {
-        "courseNo": "ENGL 202",
+        "courseNo": "ENGL202",
         "section": "L02",
+        "status": "completed",
         "grade": "B+"
       }
     ],
     "pendingSections": [
       {
-        "courseNo": "ENGL 203",
+        "courseNo": "ENGL203",
         "section": "L01"
       }
     ]
@@ -185,21 +198,23 @@
     "totalCreditHours": "50",
     "major": "English",
     "phoneNo": "77889900",
-    "currentSections": [
+    "sections": [
       {
-        "courseNo": "ENGL 202",
+        "courseNo": "ENGL202",
         "section": "L01",
+        "status": "completed",
         "grade": "A"
       },
       {
-        "courseNo": "ARAB 100",
+        "courseNo": "ARAB100",
         "section": "L02",
+        "status": "completed",
         "grade": "B"
       }
     ],
     "pendingSections": [
       {
-        "courseNo": "ENGL 203",
+        "courseNo": "ENGL203",
         "section": "L01"
       }
     ]
@@ -213,21 +228,23 @@
     "totalCreditHours": "38",
     "major": "Computer Science",
     "phoneNo": "88990011",
-    "currentSections": [
+    "sections": [
       {
-        "courseNo": "CMPS 151",
+        "courseNo": "CMPS151",
         "section": "L02",
+        "status": "completed",
         "grade": "B"
       },
       {
-        "courseNo": "CMPS 205",
+        "courseNo": "CMPS205",
         "section": "L01",
+        "status": "completed",
         "grade": "C+"
       }
     ],
     "pendingSections": [
       {
-        "courseNo": "CMPS 251",
+        "courseNo": "CMPS251",
         "section": "L01"
       }
     ]
@@ -241,21 +258,23 @@
     "totalCreditHours": "53",
     "major": "Computer Engineering",
     "phoneNo": "99001122",
-    "currentSections": [
+    "sections": [
       {
-        "courseNo": "CMPE 263",
+        "courseNo": "CMPE263",
         "section": "L01",
+        "status": "completed",
         "grade": "B+"
       },
       {
-        "courseNo": "GENG 200",
+        "courseNo": "GENG200",
         "section": "L02",
+        "status": "completed",
         "grade": "A-"
       }
     ],
     "pendingSections": [
       {
-        "courseNo": "CMPS 323",
+        "courseNo": "CMPS323",
         "section": "L01"
       }
     ]
@@ -269,21 +288,23 @@
     "totalCreditHours": "57",
     "major": "Computer Science",
     "phoneNo": "00112233",
-    "currentSections": [
+    "sections": [
       {
-        "courseNo": "CMPS 351",
+        "courseNo": "CMPS351",
         "section": "L01",
+        "status": "completed",
         "grade": "A"
       },
       {
-        "courseNo": "CMPS 323",
+        "courseNo": "CMPS323",
         "section": "L02",
+        "status": "completed",
         "grade": "A-"
       }
     ],
     "pendingSections": [
       {
-        "courseNo": "CMPS 303",
+        "courseNo": "CMPS303",
         "section": "L01"
       }
     ]
