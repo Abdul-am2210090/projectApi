@@ -190,9 +190,9 @@ class Repo {
   async getInstructor(id) {
     const instructors = await this.getInstructors();
     const instructor = instructors.find((instructor) => instructor.id == id);
-    if (!instructor) {
-      return { error: 'Instructor not found' };
-    }
+    // if (!instructor) {
+    //   return undefined;
+    // }
     return instructor;
   }
 
