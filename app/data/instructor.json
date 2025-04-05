@@ -51,8 +51,8 @@
         "name": "Nadia Rahman",
         "id": "1005",
         "sections": [
-            {"courseNo": "MATH231", "section": "L07"},
-            {"courseNo": "CMPS323", "section": "L08"}
+            {"courseNo": "MATH231", "section": "L01"},
+            {"courseNo": "CMPS323", "section": "L01"}
         ],
         "Username": "nr126",
         "collage": "Engineering",
