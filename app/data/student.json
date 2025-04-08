@@ -10,12 +10,6 @@
     "phoneNo": "12345678",
     "sections": [
       {
-        "courseNo": "CMPS151",
-        "section": "L01",
-        "status": "completed",
-        "grade": "A"
-      },
-      {
         "courseNo": "MATH101",
         "section": "L02",
         "status": "completed",
@@ -36,6 +30,10 @@
       {
         "courseNo": "PHYS194",
         "section": "B02"
+      },
+      {
+        "courseNo": "CMPS151",
+        "section": "L01"
       }
     ]
   },
