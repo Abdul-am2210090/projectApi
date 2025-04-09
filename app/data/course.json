@@ -887,7 +887,7 @@
                 "instructorID": "135",
                 "place": "C242",
                 "timing": "9:00am-10:00am",
-                "dow": "sun/tue/thu",
+                "dow": "wed",
                 "campus": "female",
                 "status": "current",
                 "students": [
@@ -1226,7 +1226,7 @@
                 "instructorID": "135",
                 "place": "C242",
                 "timing": "9:00am-10:00am",
-                "dow": "sun/tue/thu",
+                "dow": "wed",
                 "campus": "female",
                 "status": "current",
                 "students": [
