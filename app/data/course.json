@@ -17,7 +17,7 @@
                 "students": [
                     {
                         "id": "102",
-                        "grade": "F"
+                        "grade": "B+"
                     },
                     {
                         "id": "103",
@@ -32,10 +32,10 @@
                 "timing": "9:00am-10:00am",
                 "dow": "sun/tue/thu",
                 "campus": "female",
-                "status": "current",
+                "status": "pending",
                 "students": [
                     {
-                        "id": "4",
+                        "id": "29",
                         "grade": "A-"
                     },
                     {

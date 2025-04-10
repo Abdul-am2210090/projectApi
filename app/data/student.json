@@ -4,7 +4,24 @@
     "name": "Ahmed Mohamed",
     "username": "am123",
     "email": "am123@qu.edu.qa",
-    "gpa": "4.0",
+    "gpa": [
+      {
+        "CH": 3,
+        "gpa": 3.5
+      },
+      {
+        "CH": 6,
+        "gpa": 3.8
+      },
+      {
+        "CH": 9,
+        "gpa": 3.5
+      },
+      {
+        "CH": 10,
+        "gpa": 3.8
+      }
+    ],
     "totalCreditHours": "50",
     "major": "Computer Science",
     "phoneNo": "12345678",
@@ -26,6 +43,10 @@
       {
         "courseNo": "CMPS251",
         "section": "L01"
+      },
+      {
+        "courseNo": "CMPS151",
+        "section": "L01"
       }
     ]
   },
@@ -34,7 +55,24 @@
     "name": "Sara Ali",
     "username": "sa124",
     "email": "sa124@qu.edu.qa",
-    "gpa": "3.8",
+    "gpa": [
+            {
+        "CH": 3,
+        "gpa": 3.5
+      },
+      {
+        "CH": 6,
+        "gpa": 3.8
+      },
+      {
+        "CH": 9,
+        "gpa": 3.5
+      },
+      {
+        "CH": 10,
+        "gpa": 3.8
+      }
+    ],
     "totalCreditHours": "45",
     "major": "Computer Science",
     "phoneNo": "87654321",
@@ -55,7 +93,7 @@
         "courseNo": "CMPS151",
         "section": "L01",
         "status": "current",
-        "grade": "F"
+        "grade": "B+"
       }
     ],
     "pendingSections": [
@@ -70,7 +108,24 @@
     "name": "Yusuf Hamdan",
     "username": "yh125",
     "email": "yh125@qu.edu.qa",
-    "gpa": "3.5",
+    "gpa": [
+            {
+        "CH": 3,
+        "gpa": 3.5
+      },
+      {
+        "CH": 6,
+        "gpa": 3.8
+      },
+      {
+        "CH": 9,
+        "gpa": 3.5
+      },
+      {
+        "CH": 10,
+        "gpa": 3.8
+      }
+    ],
     "totalCreditHours": "60",
     "major": "Mathematics",
     "phoneNo": "11223344",
@@ -100,7 +155,24 @@
     "name": "Nadia Rahman",
     "username": "nr126",
     "email": "nr126@qu.edu.qa",
-    "gpa": "3.9",
+    "gpa": [
+            {
+        "CH": 3,
+        "gpa": 3.5
+      },
+      {
+        "CH": 6,
+        "gpa": 3.8
+      },
+      {
+        "CH": 9,
+        "gpa": 3.5
+      },
+      {
+        "CH": 10,
+        "gpa": 3.8
+      }
+    ],
     "totalCreditHours": "55",
     "major": "Physics",
     "phoneNo": "33445566",
@@ -130,7 +202,24 @@
     "name": "Ali Hassan",
     "username": "ah127",
     "email": "ah127@qu.edu.qa",
-    "gpa": "3.7",
+    "gpa": [
+            {
+        "CH": 3,
+        "gpa": 3.5
+      },
+      {
+        "CH": 6,
+        "gpa": 3.8
+      },
+      {
+        "CH": 9,
+        "gpa": 3.5
+      },
+      {
+        "CH": 10,
+        "gpa": 3.8
+      }
+    ],
     "totalCreditHours": "48",
     "major": "Chemistry",
     "phoneNo": "55667788",
@@ -160,7 +249,24 @@
     "name": "Mariam Hussein",
     "username": "mh128",
     "email": "mh128@qu.edu.qa",
-    "gpa": "3.2",
+    "gpa": [
+            {
+        "CH": 3,
+        "gpa": 3.5
+      },
+      {
+        "CH": 6,
+        "gpa": 3.8
+      },
+      {
+        "CH": 9,
+        "gpa": 3.5
+      },
+      {
+        "CH": 10,
+        "gpa": 3.8
+      }
+    ],
     "totalCreditHours": "42",
     "major": "History",
     "phoneNo": "66778899",
@@ -190,7 +296,24 @@
     "name": "Hassan Ahmed",
     "username": "ha129",
     "email": "ha129@qu.edu.qa",
-    "gpa": "3.6",
+    "gpa": [
+            {
+        "CH": 3,
+        "gpa": 3.5
+      },
+      {
+        "CH": 6,
+        "gpa": 3.8
+      },
+      {
+        "CH": 9,
+        "gpa": 3.5
+      },
+      {
+        "CH": 10,
+        "gpa": 3.8
+      }
+    ],
     "totalCreditHours": "50",
     "major": "English",
     "phoneNo": "77889900",
@@ -220,7 +343,24 @@
     "name": "Sami Haidar",
     "username": "sh130",
     "email": "sh130@qu.edu.qa",
-    "gpa": "3.1",
+    "gpa": [
+            {
+        "CH": 3,
+        "gpa": 3.5
+      },
+      {
+        "CH": 6,
+        "gpa": 3.8
+      },
+      {
+        "CH": 9,
+        "gpa": 3.5
+      },
+      {
+        "CH": 10,
+        "gpa": 3.8
+      }
+    ],
     "totalCreditHours": "38",
     "major": "Computer Science",
     "phoneNo": "88990011",
@@ -250,7 +390,24 @@
     "name": "Fatima Al-Khouri",
     "username": "fa131",
     "email": "fa131@qu.edu.qa",
-    "gpa": "3.4",
+    "gpa": [
+            {
+        "CH": 3,
+        "gpa": 3.5
+      },
+      {
+        "CH": 6,
+        "gpa": 3.8
+      },
+      {
+        "CH": 9,
+        "gpa": 3.5
+      },
+      {
+        "CH": 10,
+        "gpa": 3.8
+      }
+    ],
     "totalCreditHours": "53",
     "major": "Computer Engineering",
     "phoneNo": "99001122",
@@ -280,7 +437,24 @@
     "name": "Bilal Ameer",
     "username": "ba132",
     "email": "ba132@qu.edu.qa",
-    "gpa": "3.9",
+    "gpa": [
+            {
+        "CH": 3,
+        "gpa": 3.5
+      },
+      {
+        "CH": 6,
+        "gpa": 3.8
+      },
+      {
+        "CH": 9,
+        "gpa": 3.5
+      },
+      {
+        "CH": 10,
+        "gpa": 3.8
+      }
+    ],
     "totalCreditHours": "57",
     "major": "Computer Science",
     "phoneNo": "00112233",

@@ -1,5 +1,15 @@
 {
-    "uni-info":[""],
+    "info":["1-Established: Qatar University was founded in 1973",
+                    "2-Programs: Offers over 50 undergraduate and graduate programs.",
+                    "3-Research: Known for its research initiatives and partnerships with local and international institutions.",
+                    "4-Accreditation: Many programs are accredited by international bodies.",
+                    "5-Student Life: Offers a vibrant campus life with various clubs, organizations, and events.",
+                    "6-International Students: Welcomes students from over 80 countries.",
+                    "7-Campus: The campus is equipped with modern facilities, including libraries, laboratories, and sports complexes.",
+                    "8-Community Engagement: Engages with the local community through various outreach programs.",
+                    "9-Global Partnerships: Collaborates with universities and organizations worldwide for research and academic exchange.",
+                    "10-Location: Located in Doha, the capital city of Qatar, providing access to cultural and professional opportunities."
+                ],
     "paths":[
         {
             "name":"ComputerScience",
@@ -250,5 +260,12 @@
             "name":"ComputerEngineering",
             "courses":[]
         }
-    ]
+    ],
+    "events":{
+        "2025-04-05": "Meeting",
+        "2025-04-10": "Birthday",
+        "2025-04-20": "Holiday",
+        "2025-05-25": "Conference",
+        "2025-09-05": "Meeting"
+    }
 }
