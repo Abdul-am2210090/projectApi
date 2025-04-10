@@ -18,7 +18,7 @@
       {
         "courseNo": "PHYS194",
         "section": "B02",
-        "status": "completed",
+        "status": "current",
         "grade": "A"
       }
     ],
@@ -26,10 +26,6 @@
       {
         "courseNo": "CMPS251",
         "section": "L01"
-      },
-      {
-        "courseNo": "PHYS194",
-        "section": "B02"
       }
     ]
   },

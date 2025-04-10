@@ -114,11 +114,11 @@
             },
             {
                 "name": "empty",
-                "courseNo": "empty"
+                "courseNo": ""
             },
             {
                 "name": "Core Knowledge and Skills Package",
-                "courseNo": "N/A",
+                "courseNo": "",
                 "credit": 3
             },
             {
@@ -144,17 +144,17 @@
             },
             {
                 "name": "Natural Science/Mathematics package",
-                "courseNo": "N/A",
+                "courseNo": "",
                 "credit": 3
             },
             {
                 "name": "Major Elective I",
-                "courseNo": "N/A",
+                "courseNo": "",
                 "credit": 3
             },
             {
                 "name": "empty",
-                "courseNo": "empty"
+                "courseNo": ""
             },
         
             {
@@ -169,7 +169,7 @@
             },
             {
                 "name": "empty",
-                "courseNo": "empty"
+                "courseNo": ""
             },
             {
                 "name": "Islamic Culture",
@@ -178,7 +178,7 @@
             },
             {
                 "name": "Major Elective II",
-                "courseNo": "N/A",
+                "courseNo": "",
                 "credit": 3
             },
             {
@@ -199,21 +199,21 @@
             },
             {
                 "name": "empty",
-                "courseNo": "empty"
+                "courseNo": ""
             },
             {
                 "name": "Humanities/Fine Arts package",
-                "courseNo": "N/A",
+                "courseNo": "",
                 "credit": 3
             },
             {
                 "name": "Major Elective III",
-                "courseNo": "N/A",
+                "courseNo": "",
                 "credit": 3
             },
             {
                 "name": "empty",
-                "courseNo": "empty"
+                "courseNo": ""
             },
         
             {
@@ -228,26 +228,26 @@
             },
             {
                 "name": "empty",
-                "courseNo": "empty"
+                "courseNo": ""
             },
             {
                 "name": "Social/Behavioral Sciences package",
-                "courseNo": "N/A",
+                "courseNo": "",
                 "credit": 3
             },
             {
                 "name": "Major Elective IV",
-                "courseNo": "N/A",
+                "courseNo": "",
                 "credit": 3
             },
             {
                 "name": "empty",
-                "courseNo": "empty"
+                "courseNo": ""
             }
         ]
         },
         {
-            "name":"Computer Engineering",
+            "name":"ComputerEngineering",
             "courses":[]
         }
     ]
