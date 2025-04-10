@@ -50,6 +50,12 @@
         "section": "L02",
         "status": "completed",
         "grade": "B+"
+      },
+      {
+        "courseNo": "CMPS151",
+        "section": "L01",
+        "status": "current",
+        "grade": "F"
       }
     ],
     "pendingSections": [
