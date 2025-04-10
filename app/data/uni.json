@@ -1,242 +1,254 @@
-[
-    {
-        "name": "Programming Concepts",
-        "courseNo": "CMPS151",
-        "credit": 3
-    },
-    {
-        "name": "English Language I",
-        "courseNo": "ENGL202",
-        "credit": 3
-    },
-    {
-        "name": "History of Qatar",
-        "courseNo": "HIST121",
-        "credit": 3
-    },
-    {
-        "name": "General Chemistry I",
-        "courseNo": "CHEM101",
-        "credit": 3
-    },
-    {
-        "name": "Experimental General Chemistry I",
-        "courseNo": "CHEM103",
-        "credit": 1
-    },
-    {
-        "name": "Calculus I",
-        "courseNo": "MATH101",
-        "credit": 3
-    },
-
-    {
-        "name": "Object Oriented Programming",
-        "courseNo": "CMPS251",
-        "credit": 4
-    },
-    {
-        "name": "English Language II",
-        "courseNo": "ENGL203",
-        "credit": 3
-    },
-    {
-        "name": "General Physics I",
-        "courseNo": "PHYS191",
-        "credit": 3
-    },
-    {
-        "name": "Experimental General Physics I",
-        "courseNo": "PHYS192",
-        "credit": 1
-    },
-    {
-        "name": "Linear Algebra",
-        "courseNo": "MATH231",
-        "credit": 3
-    },
-    {
-        "name": "Calculus II",
-        "courseNo": "MATH102",
-        "credit": 3
-    },
-
-    {
-        "name": "Data Structures",
-        "courseNo": "CMPS303",
-        "credit": 4
-    },
-    {
-        "name": "Discrete Structures",
-        "courseNo": "CMPS205",
-        "credit": 3
-    },
-    {
-        "name": "Computer Ethics",
-        "courseNo": "CMPS200",
-        "credit": 1
-    },
-    {
-        "name": "General Physics II",
-        "courseNo": "PHYS193",
-        "credit": 3
-    },
-    {
-        "name": "Experimental General Physics II",
-        "courseNo": "PHYS194",
-        "credit": 1
-    },
-    {
-        "name": "Arabic Language I",
-        "courseNo": "ARAB100",
-        "credit": 3
-    },
-
-    {
-        "name": "Design & Analysis of Algorithms",
-        "courseNo": "CMPS323",
-        "credit": 3
-    },
-    {
-        "name": "Fundamentals of Database",
-        "courseNo": "CMPS351",
-        "credit": 4
-    },
-    {
-        "name": "Computer Architecture & Organization I",
-        "courseNo": "CMPE263",
-        "credit": 3
-    },
-    {
-        "name": "empty",
-        "courseNo": "empty"
-    },
-    {
-        "name": "Core Knowledge and Skills Package",
-        "courseNo": "N/A",
-        "credit": 3
-    },
-    {
-        "name": "Probability & Statistics",
-        "courseNo": "GENG200",
-        "credit": 3
-    },
-
-    {
-        "name": "Software Engineering",
-        "courseNo": "CMPS310",
-        "credit": 4
-    },
-    {
-        "name": "Cybersecurity Fundamentals",
-        "courseNo": "CMPS380",
-        "credit": 3
-    },
-    {
-        "name": "Data Communication & Networks I",
-        "courseNo": "CMPE355",
-        "credit": 4
-    },
-    {
-        "name": "Natural Science/Mathematics package",
-        "courseNo": "N/A",
-        "credit": 3
-    },
-    {
-        "name": "Major Elective I",
-        "courseNo": "N/A",
-        "credit": 3
-    },
-    {
-        "name": "empty",
-        "courseNo": "empty"
-    },
-
-    {
-        "name": "Operating Systems",
-        "courseNo": "CMPS405",
-        "credit": 4
-    },
-    {
-        "name": "Web Development Fundamentals",
-        "courseNo": "CMPS350",
-        "credit": 3
-    },
-    {
-        "name": "empty",
-        "courseNo": "empty"
-    },
-    {
-        "name": "Islamic Culture",
-        "courseNo": "DAWA111",
-        "credit": 3
-    },
-    {
-        "name": "Major Elective II",
-        "courseNo": "N/A",
-        "credit": 3
-    },
-    {
-        "name": "Numerical Methods",
-        "courseNo": "GENG300",
-        "credit": 3
-    },
-
-    {
-        "name": "Senior Project I",
-        "courseNo": "CMPS493",
-        "credit": 3
-    },
-    {
-        "name": "Introduction to Project Management and Entrepreneurship",
-        "courseNo": "CMPS307",
-        "credit": 2
-    },
-    {
-        "name": "empty",
-        "courseNo": "empty"
-    },
-    {
-        "name": "Humanities/Fine Arts package",
-        "courseNo": "N/A",
-        "credit": 3
-    },
-    {
-        "name": "Major Elective III",
-        "courseNo": "N/A",
-        "credit": 3
-    },
-    {
-        "name": "empty",
-        "courseNo": "empty"
-    },
-
-    {
-        "name": "Senior Project II",
-        "courseNo": "CMPS499",
-        "credit": 3
-    },
-    {
-        "name": "Principles of Management",
-        "courseNo": "MGMT101",
-        "credit": 3
-    },
-    {
-        "name": "empty",
-        "courseNo": "empty"
-    },
-    {
-        "name": "Social/Behavioral Sciences package",
-        "courseNo": "N/A",
-        "credit": 3
-    },
-    {
-        "name": "Major Elective IV",
-        "courseNo": "N/A",
-        "credit": 3
-    },
-    {
-        "name": "empty",
-        "courseNo": "empty"
-    }
-]
+{
+    "uni-info":[""],
+    "paths":[
+        {
+            "name":"Computer Science",
+            "courses":[
+            {
+                "name": "Programming Concepts",
+                "courseNo": "CMPS151",
+                "credit": 3
+            },
+            {
+                "name": "English Language I",
+                "courseNo": "ENGL202",
+                "credit": 3
+            },
+            {
+                "name": "History of Qatar",
+                "courseNo": "HIST121",
+                "credit": 3
+            },
+            {
+                "name": "General Chemistry I",
+                "courseNo": "CHEM101",
+                "credit": 3
+            },
+            {
+                "name": "Experimental General Chemistry I",
+                "courseNo": "CHEM103",
+                "credit": 1
+            },
+            {
+                "name": "Calculus I",
+                "courseNo": "MATH101",
+                "credit": 3
+            },
+        
+            {
+                "name": "Object Oriented Programming",
+                "courseNo": "CMPS251",
+                "credit": 4
+            },
+            {
+                "name": "English Language II",
+                "courseNo": "ENGL203",
+                "credit": 3
+            },
+            {
+                "name": "General Physics I",
+                "courseNo": "PHYS191",
+                "credit": 3
+            },
+            {
+                "name": "Experimental General Physics I",
+                "courseNo": "PHYS192",
+                "credit": 1
+            },
+            {
+                "name": "Linear Algebra",
+                "courseNo": "MATH231",
+                "credit": 3
+            },
+            {
+                "name": "Calculus II",
+                "courseNo": "MATH102",
+                "credit": 3
+            },
+        
+            {
+                "name": "Data Structures",
+                "courseNo": "CMPS303",
+                "credit": 4
+            },
+            {
+                "name": "Discrete Structures",
+                "courseNo": "CMPS205",
+                "credit": 3
+            },
+            {
+                "name": "Computer Ethics",
+                "courseNo": "CMPS200",
+                "credit": 1
+            },
+            {
+                "name": "General Physics II",
+                "courseNo": "PHYS193",
+                "credit": 3
+            },
+            {
+                "name": "Experimental General Physics II",
+                "courseNo": "PHYS194",
+                "credit": 1
+            },
+            {
+                "name": "Arabic Language I",
+                "courseNo": "ARAB100",
+                "credit": 3
+            },
+        
+            {
+                "name": "Design & Analysis of Algorithms",
+                "courseNo": "CMPS323",
+                "credit": 3
+            },
+            {
+                "name": "Fundamentals of Database",
+                "courseNo": "CMPS351",
+                "credit": 4
+            },
+            {
+                "name": "Computer Architecture & Organization I",
+                "courseNo": "CMPE263",
+                "credit": 3
+            },
+            {
+                "name": "empty",
+                "courseNo": "empty"
+            },
+            {
+                "name": "Core Knowledge and Skills Package",
+                "courseNo": "N/A",
+                "credit": 3
+            },
+            {
+                "name": "Probability & Statistics",
+                "courseNo": "GENG200",
+                "credit": 3
+            },
+        
+            {
+                "name": "Software Engineering",
+                "courseNo": "CMPS310",
+                "credit": 4
+            },
+            {
+                "name": "Cybersecurity Fundamentals",
+                "courseNo": "CMPS380",
+                "credit": 3
+            },
+            {
+                "name": "Data Communication & Networks I",
+                "courseNo": "CMPE355",
+                "credit": 4
+            },
+            {
+                "name": "Natural Science/Mathematics package",
+                "courseNo": "N/A",
+                "credit": 3
+            },
+            {
+                "name": "Major Elective I",
+                "courseNo": "N/A",
+                "credit": 3
+            },
+            {
+                "name": "empty",
+                "courseNo": "empty"
+            },
+        
+            {
+                "name": "Operating Systems",
+                "courseNo": "CMPS405",
+                "credit": 4
+            },
+            {
+                "name": "Web Development Fundamentals",
+                "courseNo": "CMPS350",
+                "credit": 3
+            },
+            {
+                "name": "empty",
+                "courseNo": "empty"
+            },
+            {
+                "name": "Islamic Culture",
+                "courseNo": "DAWA111",
+                "credit": 3
+            },
+            {
+                "name": "Major Elective II",
+                "courseNo": "N/A",
+                "credit": 3
+            },
+            {
+                "name": "Numerical Methods",
+                "courseNo": "GENG300",
+                "credit": 3
+            },
+        
+            {
+                "name": "Senior Project I",
+                "courseNo": "CMPS493",
+                "credit": 3
+            },
+            {
+                "name": "Introduction to Project Management and Entrepreneurship",
+                "courseNo": "CMPS307",
+                "credit": 2
+            },
+            {
+                "name": "empty",
+                "courseNo": "empty"
+            },
+            {
+                "name": "Humanities/Fine Arts package",
+                "courseNo": "N/A",
+                "credit": 3
+            },
+            {
+                "name": "Major Elective III",
+                "courseNo": "N/A",
+                "credit": 3
+            },
+            {
+                "name": "empty",
+                "courseNo": "empty"
+            },
+        
+            {
+                "name": "Senior Project II",
+                "courseNo": "CMPS499",
+                "credit": 3
+            },
+            {
+                "name": "Principles of Management",
+                "courseNo": "MGMT101",
+                "credit": 3
+            },
+            {
+                "name": "empty",
+                "courseNo": "empty"
+            },
+            {
+                "name": "Social/Behavioral Sciences package",
+                "courseNo": "N/A",
+                "credit": 3
+            },
+            {
+                "name": "Major Elective IV",
+                "courseNo": "N/A",
+                "credit": 3
+            },
+            {
+                "name": "empty",
+                "courseNo": "empty"
+            }
+        ]
+        },
+        {
+            "name":"Computer Engineering",
+            "courses":[]
+        }
+    ]
+}
