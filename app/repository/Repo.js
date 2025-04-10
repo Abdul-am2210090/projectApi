@@ -271,6 +271,15 @@ class Repo {
     return uni
   }
 
+  async getPaths(){
+    const uni = await this.getUni();
+    return uni.paths;
+  }
+
+  async getPath(name){
+    const paths = await this.getPaths();
+    return paths.find(p=> p.name == name);
+  }
 }
 
 
