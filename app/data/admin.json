@@ -2,6 +2,7 @@
     {
         "name": "Anas Hatem",
         "id": "11",
+        "phoneNo": "123456789",
         "sections": [
             {
                 "courseNo": "CMPS151",
@@ -15,7 +16,7 @@
         "Username": "ah11",
         "collage": "Engineering",
         "role": "admin",
-        "EmailID": "ah11@qu.edu.qa",
+        "email": "ah11@qu.edu.qa",
         "pendingSections": [
             {
                 "courseNo": "CMPS303",
@@ -26,6 +27,7 @@
     {
         "name": "Layla Saeed",
         "id": "12",
+        "phoneNo": "123456789",
         "sections": [
             {
                 "courseNo": "PHYS191",
@@ -39,7 +41,7 @@
         "Username": "ls12",
         "collage": "Engineering",
         "role": "admin",
-        "EmailID": "ls12@qu.edu.qa",
+        "email": "ls12@qu.edu.qa",
         "pendingSections": [
             {
                 "courseNo": "CMPS303",
@@ -50,6 +52,7 @@
     {
         "name": "Omar Khalid",
         "id": "13",
+        "phoneNo": "123456789",
         "sections": [
             {
                 "courseNo": "GENG200",
@@ -63,7 +66,7 @@
         "Username": "ok13",
         "collage": "Engineering",
         "role": "admin",
-        "EmailID": "ok13@qu.edu.qa",
+        "email": "ok13@qu.edu.qa",
         "pendingSections": [
             {
                 "courseNo": "CMPS303",
@@ -74,6 +77,7 @@
     {
         "name": "Sara Ahmed",
         "id": "14",
+        "phoneNo": "123456789",
         "sections": [
             {
                 "courseNo": "CHEM101",
@@ -87,7 +91,7 @@
         "Username": "sa14",
         "collage": "Engineering",
         "role": "admin",
-        "EmailID": "sa14@qu.edu.qa",
+        "email": "sa14@qu.edu.qa",
         "pendingSections": [
             {
                 "courseNo": "CMPS303",

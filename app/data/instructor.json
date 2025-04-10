@@ -2,6 +2,7 @@
     {
         "name": "Aisha Khalid",
         "id": "1001",
+        "phoneNo": "123456789",
         "sections": [
             {"courseNo": "CMPS151", "section": "L01"},
             {"courseNo": "MATH101", "section": "L02"}
@@ -9,11 +10,12 @@
         "Username": "ak122",
         "collage": "Engineering",
         "role": "instructor",
-        "EmailID": "ak122@qu.edu.qa"
+        "email": "ak122@qu.edu.qa"
     },
     {
         "name": "Omar Faisal",
         "id": "1002",
+        "phoneNo": "123456789",
         "sections": [
             {"courseNo": "PHYS191", "section": "L03"},
             {"courseNo": "CMPE263", "section": "L04"}
@@ -21,11 +23,12 @@
         "Username": "of123",
         "collage": "Engineering",
         "role": "instructor",
-        "EmailID": "of123@qu.edu.qa"
+        "email": "of123@qu.edu.qa"
     },
     {
         "name": "Sara Ahmed",
         "id": "1003",
+        "phoneNo": "123456789",
         "sections": [
             {"courseNo": "CHEM103", "section": "B01"},
             {"courseNo": "PHYS192", "section": "B02"}
@@ -33,11 +36,12 @@
         "Username": "sa124",
         "collage": "Engineering",
         "role": "instructor",
-        "EmailID": "sa124@qu.edu.qa"
+        "email": "sa124@qu.edu.qa"
     },
     {
         "name": "Yusuf Hamdan",
         "id": "1004",
+        "phoneNo": "123456789",
         "sections": [
             {"courseNo": "ENGL202", "section": "L05"},
             {"courseNo": "GENG200", "section": "L06"}
@@ -45,11 +49,12 @@
         "Username": "yh125",
         "collage": "Engineering",
         "role": "instructor",
-        "EmailID": "yh125@qu.edu.qa"
+        "email": "yh125@qu.edu.qa"
     },
     {
         "name": "Nadia Rahman",
         "id": "1005",
+        "phoneNo": "123456789",
         "sections": [
             {"courseNo": "MATH231", "section": "L01"},
             {"courseNo": "CMPS323", "section": "L01"}
@@ -57,6 +62,6 @@
         "Username": "nr126",
         "collage": "Engineering",
         "role": "instructor",
-        "EmailID": "nr126@qu.edu.qa"
+        "email": "nr126@qu.edu.qa"
     }
 ]
