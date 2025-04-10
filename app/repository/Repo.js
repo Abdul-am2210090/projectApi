@@ -261,7 +261,7 @@ class Repo {
     }
     users[index] = { ...users[index], ...user };
 
-    await this.saveAdmins(users);
+    await this.savelogins(users);
     return users[index];
   }
 
