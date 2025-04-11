@@ -3,8 +3,7 @@
     "id": "101",
     "name": "Ahmed Mohamed",
     "gender": "male",
-    "username": "am123",
-    "email": "am123@qu.edu.qa",
+    "email": "am101@qu.edu.qa",
     "gpa": [
       {
         "CH": 3,
@@ -46,8 +45,7 @@
     "id": "102",
     "name": "Sara Ali",
     "gender": "male",
-    "username": "sa124",
-    "email": "sa124@qu.edu.qa",
+    "email": "sa102@qu.edu.qa",
     "gpa": [
       {
         "CH": 3,
@@ -100,8 +98,7 @@
     "id": "103",
     "name": "Yusuf Hamdan",
     "gender": "male",
-    "username": "yh125",
-    "email": "yh125@qu.edu.qa",
+    "email": "yh103@qu.edu.qa",
     "gpa": [
       {
         "CH": 3,
@@ -148,8 +145,7 @@
     "id": "104",
     "name": "Nadia Rahman",
     "gender": "male",
-    "username": "nr126",
-    "email": "nr126@qu.edu.qa",
+    "email": "nr104@qu.edu.qa",
     "gpa": [
       {
         "CH": 3,
@@ -196,8 +192,7 @@
     "id": "105",
     "name": "Ali Hassan",
     "gender": "male",
-    "username": "ah127",
-    "email": "ah127@qu.edu.qa",
+    "email": "ah105@qu.edu.qa",
     "gpa": [
       {
         "CH": 3,
@@ -244,8 +239,7 @@
     "id": "106",
     "name": "Mariam Hussein",
     "gender": "male",
-    "username": "mh128",
-    "email": "mh128@qu.edu.qa",
+    "email": "mh106@qu.edu.qa",
     "gpa": [
       {
         "CH": 3,
@@ -292,8 +286,7 @@
     "id": "107",
     "name": "Hassan Ahmed",
     "gender": "male",
-    "username": "ha129",
-    "email": "ha129@qu.edu.qa",
+    "email": "ha107@qu.edu.qa",
     "gpa": [
       {
         "CH": 3,
@@ -340,8 +333,7 @@
     "id": "108",
     "name": "Sami Haidar",
     "gender": "male",
-    "username": "sh130",
-    "email": "sh130@qu.edu.qa",
+    "email": "sh108@qu.edu.qa",
     "gpa": [
       {
         "CH": 3,
@@ -388,8 +380,7 @@
     "id": "109",
     "name": "Fatima Al-Khouri",
     "gender": "male",
-    "username": "fa131",
-    "email": "fa131@qu.edu.qa",
+    "email": "fa109@qu.edu.qa",
     "gpa": [
       {
         "CH": 3,
@@ -436,8 +427,7 @@
     "id": "110",
     "name": "Bilal Ameer",
     "gender": "male",
-    "username": "ba132",
-    "email": "ba132@qu.edu.qa",
+    "email": "ba110@qu.edu.qa",
     "gpa": [
       {
         "CH": 3,

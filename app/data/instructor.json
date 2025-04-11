@@ -10,7 +10,7 @@
         "Username": "ak122",
         "collage": "Engineering",
         "role": "instructor",
-        "email": "ak122@qu.edu.qa"
+        "email": "ak1001@qu.edu.qa"
     },
     {
         "name": "Omar Faisal",
@@ -23,7 +23,7 @@
         "Username": "of123",
         "collage": "Engineering",
         "role": "instructor",
-        "email": "of123@qu.edu.qa"
+        "email": "of1002@qu.edu.qa"
     },
     {
         "name": "Sara Ahmed",
@@ -36,7 +36,7 @@
         "Username": "sa124",
         "collage": "Engineering",
         "role": "instructor",
-        "email": "sa124@qu.edu.qa"
+        "email": "sa1003@qu.edu.qa"
     },
     {
         "name": "Yusuf Hamdan",
@@ -49,7 +49,7 @@
         "Username": "yh125",
         "collage": "Engineering",
         "role": "instructor",
-        "email": "yh125@qu.edu.qa"
+        "email": "yh1004@qu.edu.qa"
     },
     {
         "name": "Nadia Rahman",
@@ -62,6 +62,6 @@
         "Username": "nr126",
         "collage": "Engineering",
         "role": "instructor",
-        "email": "nr126@qu.edu.qa"
+        "email": "nr1005@qu.edu.qa"
     }
 ]
