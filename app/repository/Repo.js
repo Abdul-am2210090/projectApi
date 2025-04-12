@@ -41,7 +41,7 @@ class Repo {
     const admins = await this.getAdmins();
     const admin = admins.find((admin) => admin.id == id);
     if (!admin) {
-      return { error: 'Admin not found' };
+      return "none";
     }
     return admin;
   }
