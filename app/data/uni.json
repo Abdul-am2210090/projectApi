@@ -46,7 +46,7 @@
             },
         
             {
-                "name": "Object Oriented Programming",
+                "name": "Object-Oriented Programming",
                 "courseNo": "CMPS251",
                 "credit": 4,
                 "prerequests": ["CMPS151"]

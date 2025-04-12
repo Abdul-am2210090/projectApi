@@ -84,7 +84,7 @@ class Repo {
     const courses = await this.getCourses();
     const course = courses.find((course) => course.courseNo.toLowerCase() == courseNo.toLowerCase());
     if (!course) {
-      return { error: 'Course not found' };
+      return "none";
     }
     return course;
   }

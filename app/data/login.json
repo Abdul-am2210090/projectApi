@@ -3,27 +3,7 @@
         "id": "11",
         "role": "admin",
         "email": "ah11@qu.edu.qa",
-        "password": "123",
-        "name": "Anas Hatem",
-        "sections": [
-            {
-                "courseNo": "CMPS151",
-                "section": "L01"
-            },
-            {
-                "courseNo": "MATH101",
-                "section": "L02"
-            }
-        ],
-        "Username": "ah11",
-        "collage": "Engineering",
-        "EmailID": "ah11@qu.edu.qa",
-        "pendingSections": [
-            {
-                "courseNo": "CMPS303",
-                "section": "L01"
-            }
-        ]
+        "password": "1234"
     },
     {
         "id": "12",

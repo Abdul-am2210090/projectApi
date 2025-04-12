@@ -5,49 +5,24 @@
         "phoneNo": "123456789",
         "sections": [
             {
-                "courseNo": "CMPS151",
+                "courseNo": "CMPS251",
                 "section": "L01"
-            },
-            {
-                "courseNo": "MATH101",
-                "section": "L02"
             }
         ],
-        "Username": "ah11",
         "collage": "Engineering",
         "role": "admin",
         "email": "ah11@qu.edu.qa",
-        "pendingSections": [
-            {
-                "courseNo": "CMPS303",
-                "section": "L01"
-            }
-        ]
+        "pendingSections": []
     },
     {
         "name": "Layla Saeed",
         "id": "12",
         "phoneNo": "123456789",
-        "sections": [
-            {
-                "courseNo": "PHYS191",
-                "section": "L01"
-            },
-            {
-                "courseNo": "CMPE263",
-                "section": "L02"
-            }
-        ],
-        "Username": "ls12",
+        "sections": [],
         "collage": "Engineering",
         "role": "admin",
         "email": "ls12@qu.edu.qa",
-        "pendingSections": [
-            {
-                "courseNo": "CMPS303",
-                "section": "L01"
-            }
-        ]
+        "pendingSections": []
     },
     {
         "name": "Omar Khalid",
@@ -55,48 +30,23 @@
         "phoneNo": "123456789",
         "sections": [
             {
-                "courseNo": "GENG200",
-                "section": "L01"
-            },
-            {
-                "courseNo": "MATH231",
+                "courseNo": "ENGL202",
                 "section": "L02"
             }
         ],
-        "Username": "ok13",
         "collage": "Engineering",
         "role": "admin",
         "email": "ok13@qu.edu.qa",
-        "pendingSections": [
-            {
-                "courseNo": "CMPS303",
-                "section": "L01"
-            }
-        ]
+        "pendingSections": []
     },
     {
         "name": "Sara Ahmed",
         "id": "14",
         "phoneNo": "123456789",
-        "sections": [
-            {
-                "courseNo": "CHEM101",
-                "section": "L01"
-            },
-            {
-                "courseNo": "ENGL202",
-                "section": "L02"
-            }
-        ],
-        "Username": "sa14",
+        "sections": [],
         "collage": "Engineering",
         "role": "admin",
         "email": "sa14@qu.edu.qa",
-        "pendingSections": [
-            {
-                "courseNo": "CMPS303",
-                "section": "L01"
-            }
-        ]
+        "pendingSections": []
     }
 ]
